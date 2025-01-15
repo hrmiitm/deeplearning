@@ -9,3 +9,14 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+::: quiz
+### What is 2 + 2?
+
+-   [ ] **3**
+    -   **Incorrect.** The sum of 2 and 2 is not 3.
+-   [ ] **4**
+    -   **Correct!** 2 + 2 equals 4.
+-   [ ] **5**
+    -   **Incorrect.** 2 + 2 does not equal 5.
+:::

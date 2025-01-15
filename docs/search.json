@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Classical Perceptron Model",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nWhat is 2 + 2?\n\n3\n\nIncorrect. The sum of 2 and 2 is not 3.\n\n4\n\nCorrect! 2 + 2 equals 4.\n\n5\n\nIncorrect. 2 + 2 does not equal 5.",
     "crumbs": [
       "Week1 - Perceptron",
       "Classical Perceptron Model"
@@ -27,8 +27,30 @@
     "section": "",
     "text": "Hello",
     "crumbs": [
-      "Week1 - Classical Perceptron Model",
+      "Week1 - Perceptron",
       "Untitled"
+    ]
+  },
+  {
+    "objectID": "index.html#quiz-1",
+    "href": "index.html#quiz-1",
+    "title": "Classical Perceptron Model",
+    "section": "Quiz 1",
+    "text": "Quiz 1\n\nWhat is the capital of France?\n\nBerlin\nParis\nMadrid\nRome",
+    "crumbs": [
+      "Week1 - Perceptron",
+      "Classical Perceptron Model"
+    ]
+  },
+  {
+    "objectID": "index.html#quiz-2",
+    "href": "index.html#quiz-2",
+    "title": "Classical Perceptron Model",
+    "section": "Quiz 2",
+    "text": "Quiz 2\n\nWhat is the capital of Berlin?\n\nMadrid\nRome\nParis\nBerlin",
+    "crumbs": [
+      "Week1 - Perceptron",
+      "Classical Perceptron Model"
     ]
   }
 ]

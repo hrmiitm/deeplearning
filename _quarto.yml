@@ -3,10 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "  
-      \n<span style='display: block; text-align: center; font-weight: bold;'>Deep Learning</span>
-      \n<span style='display: block; text-align: center; font-style: italic;'>by</span>
-      \n<span style='display: block; text-align: center; font-weight: bold;'>HRM</span>"
+  title: "Deep Learning by HRM"
+  search: false
+  navbar:
+    style: "floating"
+    pinned: false
+    tools:
+      - icon: youtube
+        href: https://twitter.com
+
   sidebar:
     style: "floating"
     search: false
@@ -33,7 +38,9 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: 
+      light: simplex
+      dark: sketchy
     css: styles.css
     toc: true
 
