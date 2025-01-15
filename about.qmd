@@ -1,0 +1,10 @@
+---
+title: "about"
+editor: visual
+---
+
+hello
+
+```{python}
+1 + 1+3
+```

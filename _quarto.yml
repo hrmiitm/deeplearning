@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "  
+      \n<span style='display: block; text-align: center; font-weight: bold;'>Deep Learning</span>
+      \n<span style='display: block; text-align: center; font-style: italic;'>by</span>
+      \n<span style='display: block; text-align: center; font-weight: bold;'>HRM</span>"
+  sidebar:
+    style: "floating"
+    search: false
+    collapse-level: 1
+    contents:
+      - text: "AboutMe"
+        href: about.qmd
+      - section: "Week1 - Perceptron"
+        contents:
+          - index.qmd
+          - test.qmd
+          - basics-jupyter.qmd
+      - section: "Layout"
+        contents:
+          - layout.qmd
+          - test2.qmd
+          - layout-jupyter.qmd
+      - section: advanced.qmd
+        contents:
+          - raw-code.qmd
+          - custom-theme.qmd
+      - acknowlegment.qmd
+      
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+
+
